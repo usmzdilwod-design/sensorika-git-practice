@@ -3,7 +3,7 @@
 Git and GitHub practice project for Sensorika Academy AI Engineering course.
 
 ## Project Goal
-Learn Git and GitHub using practical exercises in Branch A.
+Learn Git and GitHub through practical exercises, teamwork, and collaboration.
 
 ## Topics
 - Git commits and history
