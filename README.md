@@ -18,3 +18,6 @@ Sensorika Academy AI Engineering student
 
 ## Project Status
 Learning and practice in progress.
+
+## Branch Practice
+This section was added in the feature/update-readme branch to practice GitHub pull requests.
